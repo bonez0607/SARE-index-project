@@ -105,12 +105,13 @@ Public Sub loadStates(boxName)
         .AddItem "Wyoming"
         
         'Territories
+        .AddItem "American Samoa"
         .AddItem "Guam"
-        .AddItem "Puerto Rico"
-        .AddItem "Northern Mariana Islands"
-        .AddItem "U.S. Virgin Islands"
-        .AddItem "Republic of Palau"
         .AddItem "Marshall Islands"
+        .AddItem "Northern Mariana Islands"
+        .AddItem "Puerto Rico"
+        .AddItem "Republic of Palau"
+        .AddItem "U.S. Virgin Islands"
     End With
 End Sub
 
